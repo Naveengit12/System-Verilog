@@ -5,8 +5,7 @@ module packed_array_1D;
   integer i;
 
   initial begin
-    $display("Packed 1D array bits:");
-    for (i = 7; i >= 0; i--) begin
+    for (i = 0; i< 8; i=i+1) begin
       $display("packed_array[%0d] = %b", i, packed_array[i]);
     end
   end
