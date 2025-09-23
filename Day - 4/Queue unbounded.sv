@@ -21,7 +21,7 @@ module queues;
     
     A.push_front(7);
     $display(A);
-    
+
     k= A.pop_back();
     $display(k,"",A);
     
@@ -41,3 +41,22 @@ module queues;
     $display(A);
   end
 endmodule
+
+
+
+ /* A[0] = 1
+# A[1] = 3
+# A[2] = 4
+# A[3] = 5
+# A[4] = 6
+
+# 1 3 4 5 6
+# 1 3 4 5 6 8
+# 7 1 3 4 5 6 8
+# 87 1 3 4 5 6
+# 71 3 4 5 6
+# 6 5 4 3 1
+# 1 3 4 5 6
+# 6 5 4 3 1
+# 6 1 4 3 5  /*
+    
