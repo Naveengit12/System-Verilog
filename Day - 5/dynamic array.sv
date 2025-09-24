@@ -37,4 +37,10 @@ module dynamic_array;
 endmodule
 
 
-
+/* output
+# Size of array = 5
+# data[0] = 1
+# data[1] = 5
+# data[2] = 4
+# data[3] = 3
+# data[4] = 2
