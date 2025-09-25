@@ -18,3 +18,8 @@ module structure;
     $display("worker m2 : %p", m2);
   end
 endmodule
+
+
+/* output
+# worker m1 : '{name:"bolt", wages:131072, proof:11}
+# worker m2 : '{name:"ben", wages:65536, proof:12} */
