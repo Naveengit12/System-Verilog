@@ -1,3 +1,5 @@
+//ADD=2, SUB=3, JE=10, JNE-11, LD= 12, ST=13 with type logic and size 4 bits.
+
 module enum_type;
   
   typedef enum logic [3:0]{
