@@ -15,3 +15,9 @@ module packed_structure;
     $display("A2 = %p",A2);
   end
 endmodule
+
+
+
+/* output
+# A1 = '{salary:10000, age:21}
+# A2 = '{salary:15000, age:24} */
