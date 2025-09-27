@@ -34,3 +34,13 @@ initial begin
 end
 endmodule
 
+
+
+
+
+/*output
+# A ='{data:'{26, 0, 0, 0}, value:1, name:"arya", salary:'{50000, 0, 0, 0}}
+# B ='{data:'{0, 27, 0, 0}, value:0, name:"ben", salary:'{0, 35000, 0, 0}}
+# C ='{data:'{0, 0, 28, 0}, value:1, name:"candy", salary:'{0, 0, 25000, 0}}
+# D ='{data:'{0, 0, 0, 29}, value:0, name:"denn", salary:'{0, 0, 0, 40000}} */
+
