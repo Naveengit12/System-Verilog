@@ -21,3 +21,8 @@ module unpacked_structure;
     $display("A2 = %p",A2);
   end
 endmodule
+
+
+/*output
+# A1 = '{salary:10000, ID:"AB1", age:21, name:"OG"}
+# A2 = '{salary:15000, ID:"AB2", age:24, name:"OMI"} */
