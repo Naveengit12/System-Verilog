@@ -13,3 +13,9 @@ module string_to_integer;
     $display("sum = %0d", sum);   //After adding
   end
 endmodule
+
+
+/* output
+# num_str = 123
+# num_value = 123
+# sum = 223 */
