@@ -14,7 +14,7 @@ module palindrome_check;
     while (left < right) begin
       if (test_str[left] != test_str[right]) begin
         This_is_palindrome = 0;          // Not a palindrome
-        break;                      // Exit loop on first mismatch
+        break;                     
       end
       left++;                       // Move left pointer towards center
       right--;                      // Move right pointer towards center
@@ -27,3 +27,9 @@ module palindrome_check;
       $display("'%s'This is not a palindrome.", test_str);
   end
 endmodule
+
+
+
+/*output
+If 1 "# 'racecar'This is a palindrome"
+If 0 # 'racecar'This is not a palindrome */
