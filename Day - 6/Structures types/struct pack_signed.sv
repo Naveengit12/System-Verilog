@@ -16,3 +16,9 @@ module struct_pack_signed;
     $display("Whole struct = %0d", details);
   end
 endmodule
+
+
+/*output
+# details.workers = 255
+# details.salary = 120
+# Whole struct = -136 */
