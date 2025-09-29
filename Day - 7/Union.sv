@@ -13,4 +13,8 @@ module union_data;
     $display("ID : %p",worker);  //salary info will be lost
   end
 endmodule
-    
+
+
+/* output
+# salary : '{salary:592, ID:592}
+# ID : '{salary:123, ID:123} */
