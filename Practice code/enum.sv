@@ -6,3 +6,7 @@ module enumerated_types;
     $display("d=%0d,data=%s", d, d.name);
   end
 endmodule
+
+
+//ouput
+// # d=2,data=c
