@@ -13,3 +13,9 @@ module enumerated_types;
     
   end
 endmodule
+
+
+/* output
+# d1=2,name=c
+# d2=7,name=da
+# d3=1,name=j */
