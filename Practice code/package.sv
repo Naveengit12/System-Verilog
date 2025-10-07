@@ -19,3 +19,8 @@ module top;
   initial $display("x=%0d y=%0d c=%0d d=%0d",x,y,c,d);
 
 endmodule
+
+
+
+// output
+// x=5 y=6 c=0 d=8
