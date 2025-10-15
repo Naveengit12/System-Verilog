@@ -19,7 +19,7 @@ module tb_h_a;
   half_add ha();
   
   // instantiation
-  h_a uut( ha);
+  h_a dut( ha);
   
    initial begin
     // Apply test vectors
