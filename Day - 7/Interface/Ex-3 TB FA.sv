@@ -31,3 +31,16 @@ module full_adder_tb;
     
   end
 endmodule
+
+
+// Output
+// # run -all
+// # a=0,b=0,C_in=0,sum=0,C_out=0
+// # a=0,b=0,C_in=1,sum=1,C_out=0
+// # a=0,b=1,C_in=0,sum=1,C_out=0
+// # a=0,b=1,C_in=1,sum=0,C_out=1
+// # a=1,b=0,C_in=0,sum=1,C_out=0
+// # a=1,b=0,C_in=1,sum=0,C_out=1
+// # a=1,b=1,C_in=0,sum=0,C_out=1
+// # a=1,b=1,C_in=1,sum=1,C_out=1
+// # exit
