@@ -40,4 +40,50 @@ module task_return_type;
       $display("=====================");
     end
   end
-endmodule        
+endmodule 
+
+
+
+// output
+// # run -all
+// # a > b is done
+// # a = 15, b = 14, y = 1
+// # a is greater than b
+// # =====================
+// # a > b is done
+// # a = 17, b = 10, y = 1
+// # a is greater than b
+// # =====================
+// # a > b is done
+// # a = 19, b = 10, y = 1
+// # a is greater than b
+// # =====================
+// # a < b is done
+// # a = 11, b = 20, y = 2
+// # a is less than b
+// # =====================
+// # a > b is done
+// # a = 20, b = 15, y = 1
+// # a is greater than b
+// # =====================
+// # a > b is done
+// # a = 20, b = 18, y = 1
+// # a is greater than b
+// # =====================
+// # a < b is done
+// # a = 11, b = 13, y = 2
+// # a is less than b
+// # =====================
+// # a < b is done
+// # a = 12, b = 20, y = 2
+// # a is less than b
+// # =====================
+// # a > b is done
+// # a = 20, b = 19, y = 1
+// # a is greater than b
+// # =====================
+// # a > b is done
+// # a = 20, b = 18, y = 1
+// # a is greater than b
+// # =====================
+// # exit
