@@ -32,3 +32,16 @@ module task_code;
     
   end
 endmodule
+
+
+
+
+// output
+// # run -all
+// # a is less than b
+// # comparison at time = $0t                  10
+// # a is equal to b
+// # comparison at time = 30
+// # a is greater than b
+// # comparison at time = $0t                  60
+// # exi
