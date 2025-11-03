@@ -1,3 +1,5 @@
+
+// -------------------------------FOREVER LOOP-------------------------
 module forever_loop;
   integer count;
   
@@ -9,6 +11,26 @@ module forever_loop;
       #10;
     end
   end
+  initial begin
+    #100;
+    $finish;
+  end
+endmodule
+
+
+
+
+
+// -------------------ALWAYS------------------
+module always_vs_forever;
+  int count;
+  
+  always begin
+      $display("count=%0d",count);
+      count++;
+    #10;
+  end
+  
   initial begin
     #100;
     $finish;
