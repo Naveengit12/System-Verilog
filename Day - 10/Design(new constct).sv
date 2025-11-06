@@ -26,3 +26,12 @@ module sv_constructor;
     pkt.display();
   end
 endmodule
+
+
+
+// output
+// # run -all
+// # addr  = 10
+// # data  = dd
+// # D_type  = Valid
+// # exit
