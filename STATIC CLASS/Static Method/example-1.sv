@@ -24,3 +24,15 @@ module static_properties;
     end
   end  
 endmodule
+
+
+
+
+// output
+//  run -all
+// # packet_id  = 1
+// # packet_id  = 2
+// # packet_id  = 3
+// # packet_id  = 4
+// # packet_id  = 5
+// # exit
