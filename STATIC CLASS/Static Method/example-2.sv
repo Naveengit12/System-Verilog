@@ -23,3 +23,14 @@ endclass
       end
     end
   endmodule
+
+
+
+// output
+// # run -all
+// # gears = 1
+// # gears = 2
+// # gears = 3
+// # gears = 4
+// # gears = 5
+// # exit
