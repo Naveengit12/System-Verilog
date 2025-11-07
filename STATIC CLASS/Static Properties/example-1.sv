@@ -28,3 +28,12 @@ module static_properties;
     end
   end  
 endmodule
+
+
+
+// output
+// # run -all
+// # student_id  = 1
+// # student_id  = 2
+// # student_id  = 3
+// # exit
