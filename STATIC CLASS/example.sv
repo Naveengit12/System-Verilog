@@ -30,3 +30,11 @@ module static_properties;
     p.display_packets_created();
   end  
 endmodule
+
+
+
+// output
+// # run -all
+// # 	 5 packets created.
+// # 	 5 packets created.
+// # exit
