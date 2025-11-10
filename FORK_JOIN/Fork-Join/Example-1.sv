@@ -23,3 +23,16 @@ module fork_join;
     join
   end
 endmodule
+
+
+
+
+// output
+// # run -all
+// # A is going GYM at time = 0
+// # B is doing workout at time = 0
+// # A is started workout at time = 0
+// # A is reached GYM at time = 15
+// # B is completed workout at time = 20
+// # A is completed workout at time = 20
+// # exit
