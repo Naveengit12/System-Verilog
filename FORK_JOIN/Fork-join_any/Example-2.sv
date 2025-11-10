@@ -22,3 +22,13 @@ module fork_join_any;
     $display("One process completed. Continuing execution...");
   end
 endmodule
+
+
+// output
+// # run -all
+// # Starting fork-join_any
+// # Process 2 completed
+// # One process completed. Continuing execution...
+// # Process 3 completed
+// # Process 1 completed
+// # exit
