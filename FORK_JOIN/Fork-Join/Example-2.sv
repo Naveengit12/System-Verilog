@@ -24,3 +24,13 @@ module fork_join;
     $display("show all if completed. Continuing execution...");
   end
 endmodule
+
+
+// output
+// # run -all
+// # Starting fork-join with PUSHUPS
+// # Naveen is done 20 pushups
+// # Anbu is done 30 pushups
+// # praveen is done 100 pushups
+// # show all if completed. Continuing execution...
+// # exit
