@@ -18,3 +18,9 @@ module class_cricket;
     $display("teams=%0h,players=%0h,kit=%0h,viewers=%0h",ckt.teams,ckt.players,ckt.kit,ckt.viewers);
   end
 endmodule
+
+
+// output
+// # run -all
+// # teams=5,players=37,kit=5,viewers=605534d
+// # exit
