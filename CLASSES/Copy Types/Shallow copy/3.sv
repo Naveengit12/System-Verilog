@@ -45,5 +45,19 @@ module shallow_copy;
     w2.display();
   end
 endmodule
-  
-  
+
+
+
+// output
+// # run -all
+// # wiring: wire_types=20,length=100
+// # bulb : bb.switch=1,bb.power_w=50
+// # ============================================
+// # wiring: wire_types=20,length=100
+// # bulb : bb.switch=1,bb.power_w=50
+// # wiring: wire_types=15,length=150
+// # bulb : bb.switch=0,bb.power_w=35
+// # ============================================
+// # wiring: wire_types=20,length=100
+// # bulb : bb.switch=0,bb.power_w=35
+// # exit
