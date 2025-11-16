@@ -23,3 +23,9 @@ module class_example;
     P.display();
   end
 endmodule
+
+
+//     output
+//      run -all
+// # Child: Value of data = 35 and id = 111
+// # exit
