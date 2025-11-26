@@ -25,3 +25,15 @@ module class_pkt_data;
     $display("pkt_d2.addr_range = %0d",pkt_d2.addr_range);
   end
 endmodule
+
+// output
+//  run -all
+// # Before disable constraint
+// # pkt_d1.addr_range = 100
+// # pkt_d2.addr_range = 100
+// # After disable constraint
+// # pkt_d1.addr_range = 220
+// # pkt_d2.addr_range = 178
+// # exit
+// # End time: 09:32:41 on Nov 26,2025, Elapsed time: 0:00:01
+// # Errors: 0, Warnings: 0
