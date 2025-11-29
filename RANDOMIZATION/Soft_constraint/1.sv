@@ -16,3 +16,13 @@ module class_parent;
   end
 endmodule
 
+// output
+// # 
+// # run -all
+// # child = 18
+// # child = 22
+// # child = 17
+// # child = 23
+// # child = 19
+// # exit
+
