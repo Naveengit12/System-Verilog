@@ -18,3 +18,28 @@ module class_data;
     end
   end
 endmodule
+
+
+// output
+// # run -all
+// # Before inline: set_players = 6
+// # After inline: set_players = 14
+// # Before inline: set_players = 7
+// # After inline: set_players = 15
+// # Before inline: set_players = 8
+// # After inline: set_players = 11
+// # Before inline: set_players = 14
+// # After inline: set_players = 10
+// # Before inline: set_players = 15
+// # After inline: set_players = 11
+// # Before inline: set_players = 13
+// # After inline: set_players = 13
+// # Before inline: set_players = 15
+// # After inline: set_players = 15
+// # Before inline: set_players = 5
+// # After inline: set_players = 14
+// # Before inline: set_players = 10
+// # After inline: set_players = 15
+// # Before inline: set_players = 12
+// # After inline: set_players = 10
+// # exit
