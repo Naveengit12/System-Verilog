@@ -30,3 +30,38 @@ module class_data;
   end
 endmodule
     
+
+
+// output
+// # run -all
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # pre_randomize
+// # post_randomize
+// # len_met =150, no_tiers =60
+// # exit
