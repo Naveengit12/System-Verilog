@@ -30,4 +30,37 @@ endmodule
 
 
 
-output
+// output
+// # 
+// # run -all
+// # pre_randomize
+// # post_randomize
+// # len_met =63, no_tiers =38
+// # pre_randomize
+// # post_randomize
+// # len_met =125, no_tiers =59
+// # pre_randomize
+// # post_randomize
+// # len_met =61, no_tiers =55
+// # pre_randomize
+// # post_randomize
+// # len_met =224, no_tiers =52
+// # pre_randomize
+// # post_randomize
+// # len_met =14, no_tiers =44
+// # pre_randomize
+// # post_randomize
+// # len_met =99, no_tiers =41
+// # pre_randomize
+// # post_randomize
+// # len_met =22, no_tiers =45
+// # pre_randomize
+// # post_randomize
+// # len_met =236, no_tiers =47
+// # pre_randomize
+// # post_randomize
+// # len_met =160, no_tiers =52
+// # pre_randomize
+// # post_randomize
+// # len_met =77, no_tiers =41
+// # exit
