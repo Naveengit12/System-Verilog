@@ -29,3 +29,17 @@ module rand_methods;
     end
   end
 endmodule
+
+
+// output
+// # 
+// # run -all
+// # POST_RANDOMIZATION: addr_area = 4,weight = 0
+// # POST_RANDOMIZATION: addr_area = 179,weight = 1
+// # POST_RANDOMIZATION: addr_area = 179,weight = 1
+// # POST_RANDOMIZATION: addr_area = 179,weight = 0
+// # POST_RANDOMIZATION: addr_area = 185,weight = 0
+// # POST_RANDOMIZATION: addr_area = 214,weight = 1
+// # POST_RANDOMIZATION: addr_area = 214,weight = 0
+// # POST_RANDOMIZATION: addr_area = 164,weight = 1
+// # exit
